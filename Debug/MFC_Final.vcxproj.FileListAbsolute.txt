@@ -1,0 +1,2 @@
+C:\Users\dbxor\source\repos\MFC_Final\Debug\MFC_Final.exe
+C:\Users\dbxor\source\repos\MFC_Final\Debug\MFC_Final.pdb
